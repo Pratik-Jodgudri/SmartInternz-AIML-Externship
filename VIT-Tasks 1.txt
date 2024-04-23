@@ -1,0 +1,10 @@
+Task - 1 Create a pandas dataframe (DataFrame name as 'df') (10 observation and 5 features)
+
+Task- 2 Check the info of 'df'
+
+Task 3- Check the descriptive statistics of 'df'
+
+Task 4- check the 4th index observation with 'loc' slicing operator.
+
+Task 5 - Check the null values in your 'df'
+
